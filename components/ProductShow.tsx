@@ -1,5 +1,4 @@
-import Image from "next/image"; //Image này để làm gì?
-import React from "react"; //React là gì?
+import React from "react";
 
 
 interface Product {
